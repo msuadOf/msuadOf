@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**msuadOf/msuadOf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 一个不会写CSS的前端开发者
+- 🌱 一个会写前端的电子人
+- 👯 一个做电子但是软件开发者
+- 🤔 一个会写软甲但是想做电路
+- 💬 目前在学高频电路的设计
+- 📫 目前试图手搓一个CPU
+- 😄 斜杠青年：前端开发者/嵌入式开发者/电子人/原批（混入其中）
+- ⚡ 技术栈：React/Verilog/stm32/arduino/
+- ✨
+- 👋
