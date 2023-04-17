@@ -1,13 +1,24 @@
-### Hi there 👋
+
+<table>
+<tr>
+<td>
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=msuadof&show_icons=true&include_all_commits=true&hide=issues,contribs&custom_title=My%20GitHub%20Stats)]()
+
+</td>
+<td>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msuadof&layout=compact&langs_count=4)]()
+
+</td>
+</tr>
+</table>
 
 
-- 🔭 一个不会写CSS的前端开发者
-- 🌱 一个会写前端的电子人
-- 👯 一个做电子但是软件开发者
-- 🤔 一个会写软甲但是想做电路
-- 💬 目前在学高频电路的设计
-- 📫 目前试图手搓一个CPU
-- 😄 斜杠青年：前端开发者/嵌入式开发者/电子人/原批（混入其中）
-- ⚡ 技术栈：React/Verilog/stm32/arduino/
-- ✨ Cadence啊Cadence，你怎么就这么难学
-<!-- - 👋  -->
+### ⚡ 我的技术栈 | My Tech Stack
+
+* ![systemverilog](https://img.shields.io/badge/-SystemVerilog-CAD09D.svg) ![verilog](https://img.shields.io/badge/-Verilog-8985F0.svg) ![SpinalHDL](https://img.shields.io/badge/-SpinalHDL-red.svg) ![js](https://img.shields.io/badge/-JavaScript-239120?logo=javascript&logoColor=ffffff) ![React](https://img.shields.io/badge/-React-00BFFF?logo=React&logoColor=ffffff) ![c](https://img.shields.io/badge/-C/C++-red?logo=c&logoColor=ffffff) ![python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff)
+
+* ![iverilog](https://img.shields.io/badge/-iverilog-green.svg) ![vivado](https://img.shields.io/badge/-Vivado-FF1010.svg?logo=xilinx&logoColor=ffffff) ![arduino](https://img.shields.io/badge/-Arduino-00979D.svg?logo=arduino&logoColor=ffffff) ![lceda](https://img.shields.io/badge/-立创EDA-5070F0.svg)
+
+
